@@ -11,8 +11,15 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        var check = true
         button.setOnClickListener {
-           textView.text = "Mobile Programming"
+            if(check) {
+                check = false
+                textView.text = "Mobile Programming"
+            } else {
+                check = true
+                textView.text = "EGCO428"
+            }
         }
     }
 }
