@@ -11,15 +11,18 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var check = true
+        var a = ""
+        var b = ""
+
         button.setOnClickListener {
-            if(check) {
-                check = false
-                textView.text = "Mobile Programming"
-            } else {
-                check = true
-                textView.text = "EGCO428"
-            }
+            a = editText1.text.toString()
+            Log.d("Input1", a)
+
+            b= editText2.text.toString()
+            Log.d("Input2", b)
+
+            textView.text = (a.toInt() + b.toInt()).toString()
+            Log.d("Result", a+b)
         }
     }
 }
