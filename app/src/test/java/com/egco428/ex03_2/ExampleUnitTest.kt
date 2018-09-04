@@ -1,4 +1,4 @@
-package com.egco428.ex03
+package com.egco428.ex03_2
 
 import org.junit.Test
 
