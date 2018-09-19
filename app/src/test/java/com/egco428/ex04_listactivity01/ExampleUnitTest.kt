@@ -1,4 +1,4 @@
-package com.egco428.ex03_2
+package com.egco428.ex04_listactivity01
 
 import org.junit.Test
 
