@@ -1,4 +1,4 @@
-package com.egco428.ex09_singletouch
+package com.egco428.ex10_multitouch
 
 import org.junit.Test
 

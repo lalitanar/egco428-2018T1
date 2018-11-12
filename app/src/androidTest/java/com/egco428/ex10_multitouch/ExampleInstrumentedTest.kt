@@ -1,4 +1,4 @@
-package com.egco428.ex09_singletouch
+package com.egco428.ex10_multitouch
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.egco428.ex09_singletouch", appContext.packageName)
+        assertEquals("com.egco428.ex10_multitouch", appContext.packageName)
     }
 }
