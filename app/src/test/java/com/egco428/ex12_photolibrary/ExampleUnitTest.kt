@@ -1,4 +1,4 @@
-package com.egco428.ex11_camera
+package com.egco428.ex12_photolibrary
 
 import org.junit.Test
 
