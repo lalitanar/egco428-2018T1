@@ -1,4 +1,4 @@
-package com.egco428.ex10_multitouch
+package com.egco428.ex11_camera
 
 import org.junit.Test
 
