@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Swift08_SoundRecording
+//  Swift09_VideoPlayer
 //
 //  Created by Lalita Narupiyakul on 22/11/2561 BE.
 //  Copyright © 2561 Lalita Narupiyakul. All rights reserved.

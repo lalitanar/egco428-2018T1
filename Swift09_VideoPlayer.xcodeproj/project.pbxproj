@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		12A9C1BD21A6589C007C69EF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A9C1BC21A6589C007C69EF /* AppDelegate.swift */; };
-		12A9C1BF21A6589C007C69EF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A9C1BE21A6589C007C69EF /* ViewController.swift */; };
-		12A9C1C221A6589C007C69EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12A9C1C021A6589C007C69EF /* Main.storyboard */; };
-		12A9C1C421A6589D007C69EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12A9C1C321A6589D007C69EF /* Assets.xcassets */; };
-		12A9C1C721A6589D007C69EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12A9C1C521A6589D007C69EF /* LaunchScreen.storyboard */; };
+		12A9C1DB21A66505007C69EF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A9C1DA21A66505007C69EF /* AppDelegate.swift */; };
+		12A9C1DD21A66505007C69EF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12A9C1DC21A66505007C69EF /* ViewController.swift */; };
+		12A9C1E021A66505007C69EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12A9C1DE21A66505007C69EF /* Main.storyboard */; };
+		12A9C1E221A66506007C69EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12A9C1E121A66506007C69EF /* Assets.xcassets */; };
+		12A9C1E521A66506007C69EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12A9C1E321A66506007C69EF /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		12A9C1B921A6589C007C69EF /* Swift08_SoundRecording.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift08_SoundRecording.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		12A9C1BC21A6589C007C69EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		12A9C1BE21A6589C007C69EF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		12A9C1C121A6589C007C69EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		12A9C1C321A6589D007C69EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		12A9C1C621A6589D007C69EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		12A9C1C821A6589D007C69EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		12A9C1D721A66505007C69EF /* Swift09_VideoPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift09_VideoPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		12A9C1DA21A66505007C69EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		12A9C1DC21A66505007C69EF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		12A9C1DF21A66505007C69EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		12A9C1E121A66506007C69EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		12A9C1E421A66506007C69EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		12A9C1E621A66506007C69EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		12A9C1B621A6589C007C69EF /* Frameworks */ = {
+		12A9C1D421A66505007C69EF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,71 +35,71 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		12A9C1B021A6589C007C69EF = {
+		12A9C1CE21A66505007C69EF = {
 			isa = PBXGroup;
 			children = (
-				12A9C1BB21A6589C007C69EF /* Swift08_SoundRecording */,
-				12A9C1BA21A6589C007C69EF /* Products */,
+				12A9C1D921A66505007C69EF /* Swift09_VideoPlayer */,
+				12A9C1D821A66505007C69EF /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		12A9C1BA21A6589C007C69EF /* Products */ = {
+		12A9C1D821A66505007C69EF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				12A9C1B921A6589C007C69EF /* Swift08_SoundRecording.app */,
+				12A9C1D721A66505007C69EF /* Swift09_VideoPlayer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		12A9C1BB21A6589C007C69EF /* Swift08_SoundRecording */ = {
+		12A9C1D921A66505007C69EF /* Swift09_VideoPlayer */ = {
 			isa = PBXGroup;
 			children = (
-				12A9C1BC21A6589C007C69EF /* AppDelegate.swift */,
-				12A9C1BE21A6589C007C69EF /* ViewController.swift */,
-				12A9C1C021A6589C007C69EF /* Main.storyboard */,
-				12A9C1C321A6589D007C69EF /* Assets.xcassets */,
-				12A9C1C521A6589D007C69EF /* LaunchScreen.storyboard */,
-				12A9C1C821A6589D007C69EF /* Info.plist */,
+				12A9C1DA21A66505007C69EF /* AppDelegate.swift */,
+				12A9C1DC21A66505007C69EF /* ViewController.swift */,
+				12A9C1DE21A66505007C69EF /* Main.storyboard */,
+				12A9C1E121A66506007C69EF /* Assets.xcassets */,
+				12A9C1E321A66506007C69EF /* LaunchScreen.storyboard */,
+				12A9C1E621A66506007C69EF /* Info.plist */,
 			);
-			path = Swift08_SoundRecording;
+			path = Swift09_VideoPlayer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		12A9C1B821A6589C007C69EF /* Swift08_SoundRecording */ = {
+		12A9C1D621A66505007C69EF /* Swift09_VideoPlayer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 12A9C1CB21A6589D007C69EF /* Build configuration list for PBXNativeTarget "Swift08_SoundRecording" */;
+			buildConfigurationList = 12A9C1E921A66506007C69EF /* Build configuration list for PBXNativeTarget "Swift09_VideoPlayer" */;
 			buildPhases = (
-				12A9C1B521A6589C007C69EF /* Sources */,
-				12A9C1B621A6589C007C69EF /* Frameworks */,
-				12A9C1B721A6589C007C69EF /* Resources */,
+				12A9C1D321A66505007C69EF /* Sources */,
+				12A9C1D421A66505007C69EF /* Frameworks */,
+				12A9C1D521A66505007C69EF /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Swift08_SoundRecording;
-			productName = Swift08_SoundRecording;
-			productReference = 12A9C1B921A6589C007C69EF /* Swift08_SoundRecording.app */;
+			name = Swift09_VideoPlayer;
+			productName = Swift09_VideoPlayer;
+			productReference = 12A9C1D721A66505007C69EF /* Swift09_VideoPlayer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		12A9C1B121A6589C007C69EF /* Project object */ = {
+		12A9C1CF21A66505007C69EF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = "Lalita Narupiyakul";
 				TargetAttributes = {
-					12A9C1B821A6589C007C69EF = {
+					12A9C1D621A66505007C69EF = {
 						CreatedOnToolsVersion = 10.1;
 					};
 				};
 			};
-			buildConfigurationList = 12A9C1B421A6589C007C69EF /* Build configuration list for PBXProject "Swift08_SoundRecording" */;
+			buildConfigurationList = 12A9C1D221A66505007C69EF /* Build configuration list for PBXProject "Swift09_VideoPlayer" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -107,54 +107,54 @@
 				en,
 				Base,
 			);
-			mainGroup = 12A9C1B021A6589C007C69EF;
-			productRefGroup = 12A9C1BA21A6589C007C69EF /* Products */;
+			mainGroup = 12A9C1CE21A66505007C69EF;
+			productRefGroup = 12A9C1D821A66505007C69EF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				12A9C1B821A6589C007C69EF /* Swift08_SoundRecording */,
+				12A9C1D621A66505007C69EF /* Swift09_VideoPlayer */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		12A9C1B721A6589C007C69EF /* Resources */ = {
+		12A9C1D521A66505007C69EF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				12A9C1C721A6589D007C69EF /* LaunchScreen.storyboard in Resources */,
-				12A9C1C421A6589D007C69EF /* Assets.xcassets in Resources */,
-				12A9C1C221A6589C007C69EF /* Main.storyboard in Resources */,
+				12A9C1E521A66506007C69EF /* LaunchScreen.storyboard in Resources */,
+				12A9C1E221A66506007C69EF /* Assets.xcassets in Resources */,
+				12A9C1E021A66505007C69EF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		12A9C1B521A6589C007C69EF /* Sources */ = {
+		12A9C1D321A66505007C69EF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				12A9C1BF21A6589C007C69EF /* ViewController.swift in Sources */,
-				12A9C1BD21A6589C007C69EF /* AppDelegate.swift in Sources */,
+				12A9C1DD21A66505007C69EF /* ViewController.swift in Sources */,
+				12A9C1DB21A66505007C69EF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		12A9C1C021A6589C007C69EF /* Main.storyboard */ = {
+		12A9C1DE21A66505007C69EF /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				12A9C1C121A6589C007C69EF /* Base */,
+				12A9C1DF21A66505007C69EF /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		12A9C1C521A6589D007C69EF /* LaunchScreen.storyboard */ = {
+		12A9C1E321A66506007C69EF /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				12A9C1C621A6589D007C69EF /* Base */,
+				12A9C1E421A66506007C69EF /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -162,7 +162,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		12A9C1C921A6589D007C69EF /* Debug */ = {
+		12A9C1E721A66506007C69EF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -223,7 +223,7 @@
 			};
 			name = Debug;
 		};
-		12A9C1CA21A6589D007C69EF /* Release */ = {
+		12A9C1E821A66506007C69EF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -278,36 +278,36 @@
 			};
 			name = Release;
 		};
-		12A9C1CC21A6589D007C69EF /* Debug */ = {
+		12A9C1EA21A66506007C69EF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PUW9NQTW4B;
-				INFOPLIST_FILE = Swift08_SoundRecording/Info.plist;
+				INFOPLIST_FILE = Swift09_VideoPlayer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.egci428.Swift08-SoundRecording";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.egci428.Swift09-VideoPlayer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		12A9C1CD21A6589D007C69EF /* Release */ = {
+		12A9C1EB21A66506007C69EF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PUW9NQTW4B;
-				INFOPLIST_FILE = Swift08_SoundRecording/Info.plist;
+				INFOPLIST_FILE = Swift09_VideoPlayer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.egci428.Swift08-SoundRecording";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.egci428.Swift09-VideoPlayer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -317,25 +317,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		12A9C1B421A6589C007C69EF /* Build configuration list for PBXProject "Swift08_SoundRecording" */ = {
+		12A9C1D221A66505007C69EF /* Build configuration list for PBXProject "Swift09_VideoPlayer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				12A9C1C921A6589D007C69EF /* Debug */,
-				12A9C1CA21A6589D007C69EF /* Release */,
+				12A9C1E721A66506007C69EF /* Debug */,
+				12A9C1E821A66506007C69EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		12A9C1CB21A6589D007C69EF /* Build configuration list for PBXNativeTarget "Swift08_SoundRecording" */ = {
+		12A9C1E921A66506007C69EF /* Build configuration list for PBXNativeTarget "Swift09_VideoPlayer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				12A9C1CC21A6589D007C69EF /* Debug */,
-				12A9C1CD21A6589D007C69EF /* Release */,
+				12A9C1EA21A66506007C69EF /* Debug */,
+				12A9C1EB21A66506007C69EF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 12A9C1B121A6589C007C69EF /* Project object */;
+	rootObject = 12A9C1CF21A66505007C69EF /* Project object */;
 }
