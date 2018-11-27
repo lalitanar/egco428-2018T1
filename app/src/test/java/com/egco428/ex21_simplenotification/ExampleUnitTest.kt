@@ -1,4 +1,4 @@
-package com.egco428.gpslocation
+package com.egco428.ex21_simplenotification
 
 import org.junit.Test
 
