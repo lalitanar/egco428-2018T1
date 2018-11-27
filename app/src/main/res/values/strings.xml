@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Ex16_FireStorageImage</string>
+    <string name="app_name">BasicMap</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
