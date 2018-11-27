@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Swift09_VideoPlayer.xcodeproj">
+      location = "self:Swift10-Map.xcodeproj">
    </FileRef>
 </Workspace>
